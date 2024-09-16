@@ -30,8 +30,8 @@ Features include secure login, menu customization and browsing, secure payments 
 ### Connect with Me:
 
 - Email: nishagurav79@gmail.com
-- LinkedIn: https://www.linkedin.com/in/dipesh-singh-chadgal/
-- GitHub: https://github.com/Dipesh-Chadgal
+- LinkedIn: https://www.linkedin.com/in/nisha-gurav/
+- GitHub: https://github.com/Nisha-Gurav
 
 ### Feedback Welcome :
 - I'm still learning and growing as a developer, so I always welcome constructive feedback and suggestions. Feel free to reach out to me on any platform above, and let's connect!
