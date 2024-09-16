@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hey there! I'm Nisha, a Computer Science & Engineering Graduate from Chandigarh Engineering College with a passion for coding and crafting innovative solutions. This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
+Hi! I’m Nisha, a third-year Computer Science & Engineering student at Walchand Institute of Technology. I’m passionate about coding and building creative solutions. This README is my space to share my journey, skills, and future goals. Let’s get started!
 
 ### Skills & Interests:
 
@@ -29,7 +29,7 @@ Features include secure login, menu customization and browsing, secure payments 
 
 ### Connect with Me:
 
-- Email: dipeshchadgal10@gmail.com
+- Email: nishagurav79@gmail.com
 - LinkedIn: https://www.linkedin.com/in/dipesh-singh-chadgal/
 - GitHub: https://github.com/Dipesh-Chadgal
 
