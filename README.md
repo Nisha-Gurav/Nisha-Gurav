@@ -13,7 +13,7 @@ Hey there! I'm Nisha, a Computer Science & Engineering Graduate from Chandigarh 
 - **Developer Tools**                : Git/Github, Google Colab, VS Code, Eclipse 
 - **Academic Coursework**            : Data Structures, Operating Systems (Windows, Linux), CN, OOP, DBMS
 - **Interests**                      : Problem-Solving, Competitive Programming, Open-Source Contributions, Participating in Hackathons
-- **Real-Time Project Display**      : https://dipesh-chadgal.github.io
+- **Real-Time Project Display**      : https://nisha-gurav.github.io
 
 ### Projects:
 - **Habibi Foods - Online Food Ordering System**: Enabling restaurants to manage menus with ease.
