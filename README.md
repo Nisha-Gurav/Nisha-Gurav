@@ -6,14 +6,13 @@ Hi! I’m Nisha, a third-year Computer Science & Engineering student at Walchand
 
 ### Skills & Interests:
 
-- **Programming Languages**          : Python, C, C++, HTML, CSS, JavaScript(basic knowledge), Computer Networks
-- **Frameworks/Libraries**           : Bootstrap, Django, NumPy, Pandas, Tkinter
+- **Programming Languages**          : Python, C,  HTML, CSS
+- **Frameworks/Libraries**           :  Django, NumPy, Pandas
 - **Databases**                      : MySQL, SQLite
 - **Data Structures & Algorithms**   : Structuring Information for efficiency
 - **Developer Tools**                : Git/Github, Google Colab, VS Code, Eclipse 
 - **Academic Coursework**            : Data Structures, Operating Systems (Windows, Linux), CN, OOP, DBMS
-- **Interests**                      : Problem-Solving, Competitive Programming, Open-Source Contributions, Participating in Hackathons
-- **Real-Time Project Display**      : UNDER DEVELOPMENT
+- **Interests**                      : Problem-Solving
 
 ### Projects:
 - **Online Food Ordering System 🍽️**: [Project Link](https://github.com/Nisha-Gurav/Online-Food-Ordering-system) <br /> 
