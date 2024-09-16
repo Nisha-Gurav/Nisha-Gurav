@@ -17,21 +17,8 @@ Hi! I’m Nisha, a third-year Computer Science & Engineering student at Walchand
 
 ### Projects:
 - **Online Food Ordering System 🍽️**: 
-This Online Food Ordering System is a web-based platform developed using Python Django for the backend and HTML, CSS, JavaScript, and Bootstrap for the frontend. The application provides a seamless experience for users to browse through menus, place orders, and track their food orders in real time.
-
-*Key Features:*
-- User-friendly UI: Built with Bootstrap for responsive and intuitive design.
-- Menu Management: Easily add, update, and delete food items.
-- Order Processing: Customers can place orders, view their order history, and track the delivery status.
-- Admin Dashboard: Admins can manage menus, view incoming orders, and monitor sales.
-- Secure Authentication: User login and registration system implemented with Django’s built-in authentication.
-
-*Technologies Used:*
-- Backend: Python Django
-- Frontend: HTML, CSS, JavaScript, Bootstrap
-- Database: SQLite (can be changed as per project requirements)
-
-
+Its is a web-based application developed using Python Django for the backend and HTML, CSS, JavaScript, and Bootstrap for the frontend. It offers a user-friendly interface, allowing customers to easily browse menus, place orders, and track their orders in real time. The system includes an admin dashboard for managing menus, viewing incoming orders, and monitoring sales. Secure authentication is implemented with Django’s built-in features, ensuring a smooth and secure user experience. The platform is designed to be responsive and accessible, leveraging Bootstrap for a modern and intuitive UI.
+[Project Link : https://github.com/Nisha-Gurav/Online-Food-Ordering-system]
 
 
 
