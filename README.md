@@ -1,4 +1,5 @@
-# Hi, I'm NISHA ❣️
+# Hi, I'm NISHA ❣️![CodingGIF](https://github.com/user-attachments/assets/1d894146-2206-48ff-bf16-63fe2126c4cd)
+
 
 ## About Me
 
