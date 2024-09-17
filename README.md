@@ -1,9 +1,6 @@
 # Hi, I'm NISHA ❣️ 
 
-
-
-
-## About Me <img src="https://github.com/user-attachments/assets/7c021b1b-90fb-4243-a23f-95d9ada67ce6" width="60" />
+## About Me 
 Hi! I’m Nisha, a third-year Computer Science & Engineering student at Walchand Institute of Technology. I’m passionate about coding and building creative solutions. This README is my space to share my journey, skills, and future goals. Let’s get started!
 
 
