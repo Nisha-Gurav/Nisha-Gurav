@@ -2,8 +2,7 @@
 
 
 
-## About Me ![CatGIF](https://github.com/user-attachments/assets/838a0c75-3137-465a-9319-d2687e3736d7)
-
+## About Me 
 Hi! I’m Nisha, a third-year Computer Science & Engineering student at Walchand Institute of Technology. I’m passionate about coding and building creative solutions. This README is my space to share my journey, skills, and future goals. Let’s get started!
 
 
@@ -38,3 +37,6 @@ The Library Management System is a application developed using Python's Tkinter 
 
 ### Feedback Welcome :
 - I'm still learning and growing as a developer, so I always welcome constructive feedback and suggestions. Feel free to reach out to me on any platform above, and let's connect!
+
+### ![CuteKittyGIF](https://github.com/user-attachments/assets/e21a783f-022f-41f5-9545-d8ba51da698e)
+
