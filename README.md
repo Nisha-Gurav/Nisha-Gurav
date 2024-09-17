@@ -1,4 +1,5 @@
-# Hi, I'm NISHA ❣️
+# Hi, I'm NISHA ❣️ <img src="https://github.com/user-attachments/assets/e21a783f-022f-41f5-9545-d8ba51da698e" width="50" />
+
 
 
 
