@@ -38,5 +38,5 @@ The Library Management System is a application developed using Python's Tkinter 
 ### Feedback Welcome :
 - I'm still learning and growing as a developer, so I always welcome constructive feedback and suggestions. Feel free to reach out to me on any platform above, and let's connect!
 
-### ![CuteKittyGIF](https://github.com/user-attachments/assets/e21a783f-022f-41f5-9545-d8ba51da698e)
+# ![CuteKittyGIF](https://github.com/user-attachments/assets/e21a783f-022f-41f5-9545-d8ba51da698e)
 
